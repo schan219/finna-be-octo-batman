@@ -1,4 +1,4 @@
 finna-be-octo-batman
 ====================
 
-My first repository
+My solutions to coding problems
